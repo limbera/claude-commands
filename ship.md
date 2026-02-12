@@ -7,7 +7,7 @@ Run all of the following steps sequentially. Do not skip steps. If a step fails,
 
 ## Step 1 — Simplify code
 
-Launch the `code-simplifier` subagent via the Task tool targeting recently modified code. Let it clean up clarity, consistency, and maintainability issues while preserving all functionality.
+Launch the `code-simplifier:code-simplifier` subagent via the Task tool targeting recently modified code. Let it clean up clarity, consistency, and maintainability issues while preserving all functionality.
 
 ## Step 2 — Run existing tests
 
